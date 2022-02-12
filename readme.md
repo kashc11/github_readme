@@ -1,7 +1,8 @@
 ## Hi! I see you've found my profile, welcome! 🦋
 
-<h2> I am Kashish Chugh 👋 </h2>
-<h3> Developer, designer and comic book enthusiast 📚 </h3>
+<h2> I am Kashish Chugh 👋 <br> 
+Developer, designer and comic book enthusiast 📚
+</h2>
 
 - I am currently working on my portfolio 👩🏽‍💼
 - I am learning MERN stack development 📈
