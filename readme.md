@@ -1,4 +1,4 @@
-## Hi! I see you've found my profile, welcome! 🦋
+<h1 align = "center" > Hi! I see you've found my profile, welcome! 🦋 </h1>
 
 <h2 align="center"> I am Kashish Chugh 👋 <br> 
 Developer, designer and comic book enthusiast 📚
@@ -45,4 +45,14 @@ Developer, designer and comic book enthusiast 📚
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashc11&layout=compact" alt="Kashish Chugh" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashc11&show_icons=true" alt="Kashish Chugh" /></p>
+
+## 📱 Link to my socials:
+
+<br>
+
+<p align ="center" >
+<a href ="https://www.linkedin.com/in/kashishchugh/"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="linkedin"/></a>
+</p>
