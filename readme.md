@@ -13,10 +13,10 @@ Developer, designer and comic book enthusiast 📚
 ## 🧰 Languages and Tools:
 
 <p align="center">
-<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
+<img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" />
+<img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css" />
+<img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap" />
+<img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript"/>
 </p>
 
 
