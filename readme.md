@@ -43,9 +43,11 @@ Developer, designer and comic book enthusiast 📚
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashc11&layout=compact" alt="Kashish Chugh" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashc11&layout=compact" alt="Kashish Chugh" />
 <br>
+</p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashc11&show_icons=true" alt="Kashish Chugh" /></p>
 
@@ -54,5 +56,7 @@ Developer, designer and comic book enthusiast 📚
 <br>
 
 <p align ="center" >
-<a href ="https://www.linkedin.com/in/kashishchugh/"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="linkedin"/></a>
+<a href ="https://www.linkedin.com/in/kashishchugh/" target = "blank" ><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="linkedin"/></a>
+<a href ="https://twitter.com/kash_xi" target = "blank" ><img height="40" width="40" src="https://cdn-icons.flaticon.com/png/128/3256/premium/3256013.png?token=exp=1644704810~hmac=d70b99cdcadedcfa8c426cae83c92e9e" alt="twitter"/></a>
+<a href ="mailto:kashish11chugh@gmail.com" target = "blank" ><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="mail"/></a>
 </p>
