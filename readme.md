@@ -60,3 +60,7 @@ Developer, designer and comic book enthusiast 📚
 <a href ="https://twitter.com/kash_xi" target = "blank" ><img height="40" width="40" src="https://cdn-icons.flaticon.com/png/128/3256/premium/3256013.png?token=exp=1644704810~hmac=d70b99cdcadedcfa8c426cae83c92e9e" alt="twitter"/></a>
 <a href ="mailto:kashish11chugh@gmail.com" target = "blank" ><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="mail"/></a>
 </p>
+
+<p align = "center">
+<img src ="https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif" height = "60" width = "60"/>
+</p>
