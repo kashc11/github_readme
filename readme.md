@@ -12,7 +12,10 @@ Developer, designer and comic book enthusiast 📚
 
 ## 🧰 Languages and Tools:
 
+<p align="center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
+</p>
+
 
 
 
