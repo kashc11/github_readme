@@ -59,8 +59,10 @@ Developer, designer and comic book enthusiast 📚
 <a href ="https://www.linkedin.com/in/kashishchugh/" target = "blank" ><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="linkedin"/></a>
 <a href ="https://twitter.com/kash_xi" target = "blank" ><img height="40" width="40" src="https://cdn-icons.flaticon.com/png/128/3256/premium/3256013.png?token=exp=1644704810~hmac=d70b99cdcadedcfa8c426cae83c92e9e" alt="twitter"/></a>
 <a href ="mailto:kashish11chugh@gmail.com" target = "blank" ><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="mail"/></a>
+<br>
 </p>
 
 <p align = "center">
-<img src ="https://camo.githubusercontent.com/cadcda73bd0d6c1f9930021db24a1ea1f130f7da821195673f93c9a1fc73e443/68747470733a2f2f692e696d6775722e636f6d2f30484f545132642e676966" height = "60" width ="60"/>
+<br>
+<img src ="https://camo.githubusercontent.com/cadcda73bd0d6c1f9930021db24a1ea1f130f7da821195673f93c9a1fc73e443/68747470733a2f2f692e696d6775722e636f6d2f30484f545132642e676966"/>
 </p>
