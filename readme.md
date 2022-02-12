@@ -64,5 +64,5 @@ Developer, designer and comic book enthusiast 📚
 
 <p align = "center">
 <br>
-<img src ="https://camo.githubusercontent.com/cadcda73bd0d6c1f9930021db24a1ea1f130f7da821195673f93c9a1fc73e443/68747470733a2f2f692e696d6775722e636f6d2f30484f545132642e676966"/>
+<img src ="https://camo.githubusercontent.com/cadcda73bd0d6c1f9930021db24a1ea1f130f7da821195673f93c9a1fc73e443/68747470733a2f2f692e696d6775722e636f6d2f30484f545132642e676966" height ="100" width = "120"/>
 </p>
