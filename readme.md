@@ -1,5 +1,5 @@
-### Hi there, This is Kashish Chugh!
-## Student at sgsits indore
+## Hi! I see you've found my profile, welcome! 🦋
 
+# I am Kashish Chugh
+## Developer, designer and comic book enthusiast 📚
 
-# im just going to type whatever for now
