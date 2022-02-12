@@ -13,6 +13,8 @@ Developer, designer and comic book enthusiast 📚
 
 ## 🧰 Languages and Tools:
 
+<br>
+
 <p align="center">
 <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" />
 <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css" />
@@ -30,6 +32,9 @@ Developer, designer and comic book enthusiast 📚
 </p>
 
 
-
-
-
+<p align ="center">
+<img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/906/906324.png" alt="vscode"/>
+<img height="40" width="40" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git"/>
+<img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/688/688064.png" alt="illustrator"/>
+<img height="40" width="40" src="https://cdn-icons.flaticon.com/png/128/5210/premium/5210860.png?token=exp=1644703790~hmac=271e4b5ba41edfa39cee1abb02753a58" alt="illustrator"/>
+</p>
