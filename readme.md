@@ -62,5 +62,5 @@ Developer, designer and comic book enthusiast 📚
 </p>
 
 <p align = "center">
-<img src ="https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif" height = "60" width = "60"/>
+<img src ="https://camo.githubusercontent.com/cadcda73bd0d6c1f9930021db24a1ea1f130f7da821195673f93c9a1fc73e443/68747470733a2f2f692e696d6775722e636f6d2f30484f545132642e676966" height = "60" width ="60"/>
 </p>
