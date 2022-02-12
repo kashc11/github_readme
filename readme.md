@@ -2,6 +2,7 @@
 
 <h2 align="center"> I am Kashish Chugh 👋 <br> 
 Developer, designer and comic book enthusiast 📚
+<br>
 </h2>
 
 - I am currently working on my portfolio 👩🏽‍💼
@@ -31,6 +32,7 @@ Developer, designer and comic book enthusiast 📚
 <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="cpp"/>
 </p>
 
+<br>
 
 <p align ="center">
 <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/906/906324.png" alt="vscode"/>
@@ -38,3 +40,9 @@ Developer, designer and comic book enthusiast 📚
 <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/688/688064.png" alt="illustrator"/>
 <img height="40" width="40" src="https://cdn-icons.flaticon.com/png/128/5210/premium/5210860.png?token=exp=1644703790~hmac=271e4b5ba41edfa39cee1abb02753a58" alt="illustrator"/>
 </p>
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashc11&layout=compact" alt="Kashish Chugh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashc11&show_icons=true" alt="Kashish Chugh" /></p>
