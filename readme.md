@@ -68,6 +68,7 @@ Developer, designer and comic book enthusiast 📚
 
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashc11" alt="Kashish Chugh" /> </p>
 
 <p>
 Check out my repos ⬇️
