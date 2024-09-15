@@ -1,4 +1,4 @@
-<h1 align = "center" > Hi! I see you've found my profile, welcome! 🦋 </h1>
+<h1 align = "center" > Hi! welcome! 🦋 </h1>
 
 <h2 align="center"> I am Kashish Chugh 👋 <br> 
 Developer, designer and comic book enthusiast 📚
